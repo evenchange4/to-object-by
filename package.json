@@ -1,7 +1,7 @@
 {
   "name": "to-object-by",
   "version": "1.0.1",
-  "description": "",
+  "description": "Reduce an Array into Object for indexing purpose.",
   "author": "Michael Hsu",
   "license": "MIT",
   "bugs": {

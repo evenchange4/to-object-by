@@ -1,8 +1,7 @@
-const toObjectBy = (array, propertyMapper) => {
-  return array.reduce((acc, e) => ({
+const toObjectBy = (array, propertyMapper) =>
+  array.reduce((acc, e) => ({
     ...acc,
     ...propertyMapper(e),
   }), {});
-};
 
 export default toObjectBy;

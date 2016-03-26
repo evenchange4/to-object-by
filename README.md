@@ -1,6 +1,6 @@
 # to-object-by
 
-> Higher-order components of react lifecycle.
+> Reduce an Array into Object for indexing purpose.
 
 [![Travis][build-badge]][build] [![npm package][npm-badge]][npm] [![Coverage Status][coveralls-badge]][coveralls]
 

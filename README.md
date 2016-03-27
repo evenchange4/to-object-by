@@ -19,6 +19,8 @@
 $ npm install to-object-by --save
 ```
 
+[Quick DEMO on tonicdev](https://tonicdev.com/evenchange4/to-object-by)
+
 ## Usage
 
 ```js

@@ -21,8 +21,6 @@ $ npm install to-object-by --save
 
 ## Usage
 
-- As HOC
-
 ```js
 t.same(
   toObjectBy(
@@ -42,11 +40,11 @@ t.same(
 ## API
 
 ```js
-type E = Object;
+type Element = Object;
 
 toObjectBy(
-  array: Array<E>,
-  propertyMapper: (E) => Object,
+  array: Array<Element>,
+  propertyMapper: (e: Element) => Object,
 ): Object
 ```
 

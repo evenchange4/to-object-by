@@ -22,6 +22,8 @@ $ npm install to-object-by --save
 ## Usage
 
 ```js
+import toObjectBy from 'to-object-by';
+
 t.same(
   toObjectBy(
     [

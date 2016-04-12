@@ -40,7 +40,7 @@ $ npm install to-object-by --save
 ```js
 import toObjectBy from 'to-object-by';
 
-t.same(
+t.deepEqual(
   toObjectBy(
     [
       { foo: 'foo1', bar: 'bar1' },

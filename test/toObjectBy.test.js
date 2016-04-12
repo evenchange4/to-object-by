@@ -6,7 +6,7 @@ test('should return a function', t => {
 });
 
 test('should return correct object', t => {
-  t.same(
+  t.deepEqual(
     toObjectBy(
       [
         { foo: 'foo1', bar: 'bar1' },

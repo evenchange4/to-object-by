@@ -1,11 +1,11 @@
 import test from 'ava';
 import toObjectBy from '../src/toObjectBy';
 
-test('should return a function', t => {
+test('should return a function', (t) => {
   t.is(typeof toObjectBy, 'function');
 });
 
-test('should return correct object', t => {
+test('should return correct object', (t) => {
   t.deepEqual(
     toObjectBy(
       [

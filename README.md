@@ -69,6 +69,7 @@ toObjectBy(
 ## Test
 
 ```
+$ npm run lint
 $ npm run test:watch
 ```
 

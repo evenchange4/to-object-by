@@ -17,6 +17,6 @@ test('should return correct object', (t) => {
     {
       foo1: { foo: 'foo1', bar: 'bar1' },
       foo2: { foo: 'foo2', bar: 'bar1' },
-    }
+    },
   );
 });

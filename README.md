@@ -1,5 +1,7 @@
 # to-object-by
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/evenchange4/to-object-by.svg)](https://greenkeeper.io/)
+
 > Reduce an Array into Object for indexing purpose.
 
 [![Travis][build-badge]][build] [![Codecov Status][codecov-badge]][codecov] [![npm package][npm-badge]][npm] [![npm downloads][npm-downloads]][npm] [![license][license-badge]][license]
